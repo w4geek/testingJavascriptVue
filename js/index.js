@@ -53,6 +53,7 @@ console.log(objeto_2);
 
 let objeto = {var1: 23, var2: true, var3: "Hola Mundo"};
 console.log(objeto);
+console.log(objeto.var2);
 
 let testprompt = prompt("Ingrese su nombre","");
 document.write("Hola :" + testprompt);
