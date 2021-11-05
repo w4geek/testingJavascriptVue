@@ -55,15 +55,6 @@ let objeto = {var1: 23, var2: true, var3: "Hola Mundo"};
 console.log(objeto);
 console.log(objeto.var2);
 
-//let testprompt = prompt("Ingrese su nombre","");
-//document.write("Hola :" + testprompt);
+let testprompt = prompt("Ingrese su nombre","");
+document.write("Hola :" + testprompt);
 
-let i = 0;
-while (i < 5) {
-console.log("Valor de i:", i);
-i = i + 1;
-}
-
-for (i = 0; i < 5; i++) {
-    console.log("Valor de i:", i);
-    }
