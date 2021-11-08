@@ -348,8 +348,4 @@ indice++;
 
 listado.every(comprobar)
 function comprobar(elemento) {}
-
 console.log(listado)
-
-
-
